@@ -1,12 +1,11 @@
 {
-    "name": "express-typescript-starter",
+    "name": "mamacrowd-case-study",
     "version": "0.1.0",
-    "description": "A starting point for Node.js express apps with TypeScript",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/TypeScript-Node-Starter"
+        "url": "https://github.com/Nibelino/c6696acd-cb18-4ffe-95b8-9f385991bf6e"
     },
-    "author": "Bowden Kelly",
+    "author": "Matteo Villa",
     "license": "MIT",
     "scripts": {
         "start": "npm run serve",
